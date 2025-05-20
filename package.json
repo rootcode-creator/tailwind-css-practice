@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "node server.js",
+    "build": "vite build"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.7",
